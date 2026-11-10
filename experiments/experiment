@@ -24,7 +24,7 @@ actuatorTimeConstant = 0.08;  % seconds
 % Rolling resistance / damping
 velocityDamping = 0.12;       % 1/s
 
-for only simulink
+for matlabs only
 % Simulation and animation
 tEnd = 8;                     % seconds
 animationFrames = 260;
