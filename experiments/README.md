@@ -1,5 +1,6 @@
 # Experiments
-for matlabs
+
+for matlabs and simulink
 %% 1) PARAMETERS
 g = 9.81;                 % gravity (m/s^2)
 L = 0.60;                 % beam length (m)
@@ -23,6 +24,7 @@ actuatorTimeConstant = 0.08;  % seconds
 % Rolling resistance / damping
 velocityDamping = 0.12;       % 1/s
 
+for only simulink
 % Simulation and animation
 tEnd = 8;                     % seconds
 animationFrames = 260;
