@@ -22,8 +22,8 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 | Path | Purpose |
 |---|---|
-| `sofware/`(https://github.com/sprakitsuvan/Topark/tree/main/software) | PC or Raspberry Pi application code |
-| `machine-skills/` | Machine commands, procedures, and skill instructions |
+| `software/`(https://github.com/sprakitsuvan/Topark/tree/main/software) | PC or Raspberry Pi application code |
+| `machine-skills/https://github.com/sprakitsuvan/Topark/tree/main/machine-skills` | Machine commands, procedures, and skill instructions |
 | `simulation/` | Models, scripts, assumptions, and simulation results |
 | `docs/` | Assembly, setup, operation, and maintenance instructions |
 | `[media/]` | Images, GIFs, and links to demonstration videos |
