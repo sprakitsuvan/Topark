@@ -12,8 +12,8 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 ## Project overview
 
-- **Project name:** [Enter project name]
-- **Problem / purpose:** [Describe the engineering need]
+- **Project name:** [topark]
+- **Problem / purpose:** [The ball can balance at the middle of the beam.]
 - **Team:** [Names and responsibilities]
 - **Status:** Planning
 - **Last updated:** [YYYY-MM-DD]
