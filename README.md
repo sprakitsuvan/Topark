@@ -14,7 +14,7 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 - **Project name:** [topark]
 - **Problem / purpose:** [The ball can balance at the middle of the beam.]
-- **Team:** [Names and responsibilities]
+- **Team:** [Supanat Prakitsuvan 6730507721 do the symbolic math code and]
 - **Status:** Planning
 - **Last updated:** [YYYY-MM-DD]
 
