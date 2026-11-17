@@ -22,8 +22,7 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 | Path | Purpose |
 |---|---|
-| `software/firmware/` | Microcontroller code and board setup |
-| `software/application/` | PC or Raspberry Pi application code |
+| (https://github.com/sprakitsuvan/Topark/tree/main/software) | PC or Raspberry Pi application code |
 | `machine-skills/` | Machine commands, procedures, and skill instructions |
 | `simulation/` | Models, scripts, assumptions, and simulation results |
 | `docs/` | Assembly, setup, operation, and maintenance instructions |
