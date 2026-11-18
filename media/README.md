@@ -1,5 +1,4 @@
-
-<img width="800" height="450" alt="1F536B79-713A-4928-9A97-B286B2860748-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2f3be312-f3eb-4bf8-8b08-d4d9d9c1a5e0" />
+<img width="327" height="244" alt="2026-11-1809-13-57-ezgif com-crop" src="https://github.com/user-attachments/assets/7edb05bb-ab96-4e0f-8bfb-4a1f10ee8d83" />
 
 MATLAB Simulation ball and beam balance system
 
