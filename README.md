@@ -22,11 +22,11 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 | Path | Purpose |
 |---|---|
-| [[`software/`]](https://github.com/sprakitsuvan/Topark/tree/main/software) | PC or Raspberry Pi application code |
+| [`software/`](https://github.com/sprakitsuvan/Topark/tree/main/software) | PC or Raspberry Pi application code |
 | [`machine-skills/`](https://github.com/sprakitsuvan/Topark/tree/main/machine-skills) | Machine commands, procedures, and skill instructions |
 | [`simulation/`](https://github.com/sprakitsuvan/Topark/tree/main/simulation) | Models, scripts, assumptions, and simulation results |
 | [`docs/`](https://github.com/sprakitsuvan/Topark/tree/main/docs) | Assembly, setup, operation, and maintenance instructions |
-| [`[media/]`](https://github.com/sprakitsuvan/Topark/tree/main/media) | Images, GIFs, and links to demonstration videos |
+| [`media/`](https://github.com/sprakitsuvan/Topark/tree/main/media) | Images, GIFs, and links to demonstration videos |
 | [`experiments/`](https://github.com/sprakitsuvan/Topark/tree/main/experiments) | Procedures, raw data, and results |
 | [`publications/`](https://github.com/sprakitsuvan/Topark/tree/main/publications) | Project-related journal and conference papers |
 
