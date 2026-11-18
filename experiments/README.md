@@ -1,42 +1,60 @@
 # Experiments
 
 for matlabs and simulink
-%% 1) PARAMETERS
-g = 9.81;                 % gravity (m/s^2)
-L = 0.60;                 % beam length (m)
-beamWidth = 0.065;        % beam width (m)
-beamThickness = 0.025;    % beam thickness (m)
-R = 0.020;                % ball radius (m)
 
-xTarget = 0.0;            % desired ball position (m)
-xInitial = 0.20;          % initial ball position (m)
-vInitial = 0.0;           % initial ball velocity (m/s)
-thetaInitial = 0.0;       % initial beam angle (rad)
+%% 1) PARAMETERS
+
+g = 9.81;
+
+% Beam and ball dimensions (meters)
+L = 0.150;                 % Beam length = 150 mm
+beamWidth = 0.01625;       % 16.25 mm
+beamThickness = 0.00625;   % 6.25 mm
+R = 0.005;                 % Ball radius = 5 mm
+
+% Initial conditions
+xTarget = 0.0;
+xInitial = 0.050;          % 50 mm
+vInitial = 0.0;
+thetaInitial = 0.0;
 
 % PD controller
-Kp = 1.8;
-Kd = 1.15;
+Kp = 7.2;
+Kd = 4.6;
 thetaMax = deg2rad(12);
 
-% Beam actuator (first-order response)
-actuatorTimeConstant = 0.08;  % seconds
+% Beam actuator
+actuatorTimeConstant = 0.08;
 
 % Rolling resistance / damping
-velocityDamping = 0.12;       % 1/s
+velocityDamping = 0.12;
 
-for only simulink
+
+
+for simulink only
+
 % Simulation and animation
-tEnd = 8;                     % seconds
+tEnd = 8;
 animationFrames = 260;
-baseLength = 0.52;
-baseWidth = 0.22;
-baseThickness = 0.04;
-pivotHeight = 0.38;
-bearingHeight = 0.035;
+
+%% 2) STAND DIMENSIONS
+
+baseLength = 0.130;
+baseWidth = 0.055;
+baseThickness = 0.010;
+
+pivotHeight = 0.095;
+bearingHeight = 0.00875;
+
 columnLength = pivotHeight ...
     - beamThickness/2 ...
     - bearingHeight ...
     - baseThickness;
-columnWidth = 0.065;
-columnDepth = 0.075;
-bearingHeight = 0.035;
+
+columnWidth = 0.01625;
+columnDepth = 0.01875;
+
+bearingLength = 0.02625;
+bearingWidth = 0.02875;
+
+shaftRadius = 0.003;
