@@ -14,8 +14,7 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 - **Project name:** [topark]
 - **Problem / purpose:** [The ball can balance at the middle of the beam.]
-- **Team:** [Supanat Prakitsuvan 6730507721 do the symbolic math code and
--            Sorawit Tunsaranuwat 6730528921 do the multibody simulation]
+- **Team:** [1.Supanat Prakitsuvan 6730507721 do the symbolic math code 2.Sorawit Tunsaranuwat 6730528921 do the multibody simulation]
 - **Status:** In Progress
 - **Last updated:** [2026-11-17]
 
