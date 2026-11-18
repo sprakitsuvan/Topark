@@ -2,6 +2,6 @@
 
 MATLAB Simulation ball and beam balance system
 
-<img width="800" height="664" alt="BallBeam_SM_Gif" src="https://github.com/user-attachments/assets/f37cc4ad-26b0-4538-8e15-cf7d4db2e9d9" />
+<img width="400" height="226" alt="BallBeam_SM_v1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4efef4b7-9752-4612-8dea-28ab089c4461" />
 
 MATLAB Simulink Multibody ball and beam balance system
