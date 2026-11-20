@@ -1,7 +1,8 @@
 # Simulation
-[BallBeam_SMK.zip](https://github.com/user-attachments/files/35014556/BallBeam_SMK.zip)
 
-Simulation
+
+<img width="1228" height="696" alt="Screenshot 2026-11-18 160133" src="https://github.com/user-attachments/assets/8210caed-9e8e-484c-af40-dac92acce434" />
+[BallBeam_SMK.zip](https://github.com/user-attachments/files/35158666/BallBeam_SMK.zip)
 
 Software used: MATLAB R2026a, Simulink Multibody
 
